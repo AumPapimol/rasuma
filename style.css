@@ -1,0 +1,27 @@
+.ติดต่อ{
+text-align: center;
+  padding: .1rem;
+  font-size: 24px;
+  color: black;
+  transition: .4s
+}
+.jj{
+  background:	#696969;
+  margin: 0;
+  width: 100%;
+
+}
+.navbar{
+  padding: 0;
+}
+.navbar-brand{
+  color: #fff;
+}
+.container-fluid{
+  background-color:#696969;
+  padding: 1rem;
+color: #fff;
+}
+body{
+  background-color: #FFC0CB;
+}
